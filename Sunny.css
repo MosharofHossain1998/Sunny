@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.display {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    height: 300px;
+    width: 300px;
+    padding-top: 25px;
+}
+
+.border {
+    border: 2px solid black;
+}
